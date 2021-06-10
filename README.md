@@ -1,8 +1,8 @@
 # 축구로봇 프로그래밍
 적외선 전송 공을 찾아 상대의 골문 안으로 넣는 축구로봇을 제작한다. 로봇은 컴퍼스 센서, 적외선 센서, 컬러 센서, 초음파 센서를 사용하여 상황을 판단한다.
 
-<img src="img/algorithm.png">
-<img src="img/field.png" width="80%">
+<img src="img/algorithm.png" width="80%" height="80%">
+<img src="img/field.png" width="70%" height="70%">
 
 <br><br>
 
